@@ -1,3 +1,5 @@
 Output:
 -------
 220
+
+Runtime complexity: O(2^N)
